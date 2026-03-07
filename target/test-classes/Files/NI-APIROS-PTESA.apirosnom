@@ -1,0 +1,104 @@
+[{
+    "Devengados": {
+        "HENs": {"HEN": [{
+            "Cantidad": "0.25",
+            "Pago": "15334.00",
+            "Porcentaje": "75.00"
+        }]},
+        "HEDDFs": {"HEDDF": [{
+            "Cantidad": "3.00",
+            "Pago": "184014.00",
+            "Porcentaje": "100.00"
+        }]},
+        "Basico": {
+            "DiasTrabajados": "30",
+            "SueldoTrabajado": "1051500.00"
+        },
+        "HEDs": {"HED": [{
+            "Cantidad": "14.18",
+            "Pago": "621593.00",
+            "Porcentaje": "25.00"
+        }]}
+    },
+    "FechasPagos": {"FechaPago": ["2021-09-24"]},
+    "DevengadosTotal": "1872441.00",
+    "DeduccionesTotal": "149796.00",
+    "Periodo": {
+        "FechaRetiro": "2021-09-30",
+        "TiempoLaborado": "150",
+        "FechaIngreso": "2021-05-01",
+        "FechaLiquidacionInicio": "2021-09-01",
+        "FechaLiquidacionFin": "2021-09-30",
+        "FechaGen": "2021-10-26"
+    },
+    "InformacionGeneral": {
+        "PeriodoNomina": "5",
+        "HoraGen": "16:37:37-05:00",
+        "Version": "V1.0: Documento Soporte de Pago de Nómina Electrónica",
+        "TipoXML": "102",
+        "Ambiente": "2",
+        "TipoMoneda": "COP",
+        "FechaGen": "2024-10-12"
+    },
+    "Tipo": "1",
+    "Empleador": {
+        "DV": "5",
+        "NIT": "800240724",
+        "RazonSocial": "APIROS SAS",
+        "Direccion": "Calle 82 No 10-39",
+        "DepartamentoEstado": "11",
+        "MunicipioCiudad": "11001",
+        "Pais": "CO"
+    },
+    "ComprobanteTotal": "1722645.00",
+    "Redondeo": "0.00",
+    "Deducciones": {
+        "Salud": {
+            "Deduccion": "74898.00",
+            "Porcentaje": "4.00"
+        },
+        "FondoPension": {
+            "Deduccion": "74898.00",
+            "Porcentaje": "4.00"
+        }
+    },
+    "LugarGeneracionXML": {
+        "Idioma": "es",
+        "DepartamentoEstado": "11",
+        "MunicipioCiudad": "11001",
+        "Pais": "CO"
+    },
+    "Notas": ["diana.nino@ptesa.com"],
+    "NumeroSecuenciaXML": {
+        "Prefijo": "NESINCO",
+        "Numero": "NESINCO1210244",
+        "CodigoTrabajador": "6881",
+        "Consecutivo": "1210244"
+    },
+    "Pago": {
+        "Forma": "1",
+        "Metodo": "47",
+        "Banco": "BANCO DAVIVIENDA S.A.",
+        "TipoCuenta": "2",
+        "NumeroCuenta": "008000776289"
+    },
+    "Trabajador": {
+        "LugarTrabajoPais": "CO",
+        "OtrosNombres": "ALEXANDER",
+        "LugarTrabajoMunicipioCiudad": "11001",
+        "CodigoTrabajador": "6881",
+        "TipoContrato": "3",
+        "SegundoApellido": ".",
+        "PrimerApellido": "CHILATRA",
+        "NumeroDocumento": "79582163",
+        "SubTipoTrabajador": "00",
+        "TipoDocumento": "13",
+        "AltoRiesgoPension": "false",
+        "LugarTrabajoDepartamentoEstado": "11",
+        "TipoTrabajador": "01",
+        "Sueldo": "1051500",
+        "PrimerNombre": "LUIS",
+        "LugarTrabajoDireccion": "CR 38A N 53B - 12 ",
+        "SalarioIntegral": "false"
+    }
+}]

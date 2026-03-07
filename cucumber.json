@@ -1,0 +1,49 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Validar el ingreso de un usuario autorizado",
+        "description": "",
+        "id": "iniciar-sesión;validar-el-ingreso-de-un-usuario-autorizado",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "Un usuario autorizado desea ingresar a la plataforma de emision",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "Ingrese su usuario y contraseña",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "se muestra el inicio de la aplicacion",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Iniciar sesión",
+    "description": "",
+    "id": "iniciar-sesión",
+    "keyword": "Feature",
+    "uri": "IniciarSesion.feature"
+  }
+]

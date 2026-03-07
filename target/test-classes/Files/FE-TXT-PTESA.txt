@@ -1,0 +1,41 @@
+{ControlDocumento}|1.0
+{FacturaElectronica}|10|SETP991210244|2|2024-10-12|2024-04-26|01|COP|2
+{Resolucion}|18760000001|2019-01-19|2030-01-19|SETP|990000000|995000000
+{OrdenCompra}|R150421|2021-04-15		
+{ProveedorOF}|1|1||PROFESIONALES EN TRANSACCIONES ELECTRONICAS SA
+{ProveedorOF_DireccionFisica}|11001|BOGOTÁ, D.C.|11001|Bogotá|11|CO|Colombia|es
+{ProveedorOF_DireccionFisica_Linea}|1|Cra 12 # 89-28
+{ProveedorOF_InfoFiscal}|PROFESIONALES EN TRANSACCIONES ELECTRONICAS SA|830096620|1|31|O-99|No aplica|01|IVA
+{ProveedorOF_InfoFiscal_Direccion}|11001|BOGOTÁ, D.C.|11001|Bogotá|11|CO|Colombia|es
+{ProveedorOF_InfoFiscal_Direccion_Linea}|1|Cra 12 # 89-28
+{ProveedorOF_InfoLegal}|PROFESIONALES EN TRANSACCIONES ELECTRONICAS SA|830096620|1|31|SETP|
+{ProveedorOF_Contacto}|Diana|12345|98765|diana.nino@ptesa.com|nota
+{ClienteADQ}|2|1014306300|Adquiriente de pruebas|Adquiriente de pruebas automatizadas|13|1
+{ClienteADQ_Direccion}|11001|BOGOTÁ, D.C.|11001|Bogotá, D.C.|11|CO|Colombia|es
+{ClienteADQ_Direccion_Linea}|1|CALLE 50 # 15 43
+{ClienteADQ_InfoFiscal}|Adquiriente de pruebas automatizadas|1014306300|1|13|R-99-PN||01|IVA
+{ClienteADQ_InfoFiscal_Direccion}|11001|BOGOTÁ, D.C.||Bogotá|11|CO|Colombia|es
+{ClienteADQ_InfoFiscal_Direccion_Linea}|1|AV CL 26  92 32 MD G1
+{ClienteADQ_InfoLegal}|Adquiriente de pruebas|1014306300|1|13||
+{ClienteADQ_Contacto}|Adquiriente de pruebas automatizadas|3404233||diana.nino@ptesa.com|
+{Pago}|2|ZZZ|2020-01-26|
+{TotalImpuesto}|1|182305.00|01|IVA|0.00
+{TotalImpuesto_SubTotalTributoTarifa}|1|1|959500.00|182305.00||ZZ||19.00
+{ValoresTotalesFactura}|959500.00|959500.00|1141805.00||||1141805.00
+{LineaDetalle}|1|30|ZZ|789000.00
+{LineaDetalle_Impuesto}|1|1|149910.00|01|IVA|0.00
+{LineaDetalle_Impuesto_SubTotalTributoTarifa}|1|1|789000.00|149910.00||||19.00
+{LineaDetalle_Item}|1|TXT descripcion para pruebas automatizadas|||30||||||||
+{LineaDetalle_Precio}|1|26300.00|30|ZZ
+{LineaDetalle}|2|5|ZZ|170500.00
+{LineaDetalle_Impuesto}|1|2|32395.00|01|IVA|0.00
+{LineaDetalle_Impuesto_SubTotalTributoTarifa}|2|1|170500.00|32395.00||||19.00
+{LineaDetalle_Item}|2|TXT descripcion para pruebas automatizadas 2|||5||||||||
+{LineaDetalle_Precio}|2|34100.00|5|ZZ
+{Extencion}|DOC|Cliente No|38701
+{Extencion}|DOC|No Pedido|27892
+{Extension}|DOC|VlrEnLetras|UN MILLON CIENTO CUARENTA Y UN MIL OCHOCIENTOS CINCO PESOS  CON 00/100 M.L. ***********************
+{Extension}|DOC|Incoterms:|EXWORKS
+{Extension}|DOC|MENSAJE1|Notas: 1.La presente factura se asimila en todos sus efectos legales a la letra de cambio.  2. En caso de mora causará el interes autorizados por ley. 3.Se hace constar que la aceptación electrónica de una persona distinta del adquieriente implica que esta autorizada el documento por el adquiriente del servicio o producto para firmar, confesar la deuda y obligar al adquiriente. 4.Favor realizar transferencia bancara Banco de Bogotá Cuenta de Ahorros N.049160161 a nombre de OASIS FLORALIFE COLOMBIA S.A.S,NIT:900.166.230-5.
+{Extension}|DOC|MENSAJE3|Linea Gratis 018000 515652 Retenedores de IVA - C+odigo Actividad CIIU 3290 Tarifa 5.8 x 1000 - BOGOTÁ, D.C.
+{Extension}|DOC|Ref. Cliente:|REMISION 4848

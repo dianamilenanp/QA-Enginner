@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Version #1.0--><NominaIndividual xmlns="dian:gov:co:facturaelectronica:NominaIndividual" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaLocation="" xsi:schemaLocation="dian:gov:co:facturaelectronica:NominaIndividual NominaIndividualElectronicaXSD.xsd">
+<Periodo FechaGen="2021-10-12" FechaIngreso="2000-12-01" FechaLiquidacionFin="2021-09-30" FechaLiquidacionInicio="2021-09-01" TiempoLaborado="7500"/>
+<NumeroSecuenciaXML CodigoTrabajador="002-10253" Consecutivo="1210244" Numero="NI1210244" Prefijo="NI"/>
+<LugarGeneracionXML DepartamentoEstado="76" Idioma="es" MunicipioCiudad="76834" Pais="CO"/>
+<InformacionGeneral Ambiente="2" FechaGen="2024-10-12" HoraGen="12:32:00-05:00" PeriodoNomina="5" TipoMoneda="COP" TipoXML="102" Version="1.0"/>
+<Notas>{PTESA.IdentificadorEmpleador:1}</Notas>
+<Empleador DV="1" DepartamentoEstado="11" Direccion="CR 12 # 89-28 P5" MunicipioCiudad="11001" NIT="830096620" OtrosNombres="PTESA" Pais="CO" PrimerApellido="PTESA" PrimerNombre="PTESA" RazonSocial="PRFESIONALES EN TRANSACCIONES ELECTRONICAS" SegundoApellido="PTESA"/>
+<Trabajador AltoRiesgoPension="false" LugarTrabajoDepartamentoEstado="76" LugarTrabajoDireccion="calle 4" LugarTrabajoMunicipioCiudad="76834" LugarTrabajoPais="CO" NumeroDocumento="1014306111" OtrosNombres="Empleado" PrimerApellido="Pruebas" PrimerNombre="Empleado" SalarioIntegral="false" SegundoApellido="Pruebas" SubTipoTrabajador="00" Sueldo="3796189.00" TipoContrato="02" TipoDocumento="13" TipoTrabajador="01"/>
+<Pago Banco="BCO OCCIDENTE" Forma="1" Metodo="42" NumeroCuenta="037928207" TipoCuenta="Cuenta de Ahorros"/>
+<FechasPagos>
+<FechaPago>2021-09-20</FechaPago>
+</FechasPagos>
+<Devengados>
+<Basico DiasTrabajados="30" SueldoTrabajado="3796188.00"/>
+<HEDs>
+			<HED Cantidad="1.30" HoraFin="2021-02-10T02:00:00" HoraInicio="2021-02-10T01:00:00" Pago="5000" Porcentaje="25.00"/>
+		</HEDs>
+		<HENs>
+			<HEN Cantidad="0.30" HoraFin="2021-02-10T02:00:00" HoraInicio="2021-02-10T01:00:00" Pago="5000" Porcentaje="75.00"/>
+		</HENs>
+		<HRNs>
+			<HRN Cantidad="2.25" HoraFin="2021-02-10T02:00:00" HoraInicio="2021-02-10T01:00:00" Pago="5000" Porcentaje="35.00"/>
+		</HRNs>
+		<HEDDFs>
+			<HEDDF Cantidad="1.30" HoraFin="2021-02-10T02:00:00" HoraInicio="2021-02-10T01:00:00" Pago="5000" Porcentaje="100.00"/>
+		</HEDDFs>
+		<HRDDFs>
+			<HRDDF Cantidad="4.5" HoraFin="2021-02-10T02:00:00" HoraInicio="2021-02-10T01:00:00" Pago="5000" Porcentaje="75.00"/>
+		</HRDDFs>
+		<HENDFs>
+			<HENDF Cantidad="0.30" HoraFin="2021-02-10T02:00:00" HoraInicio="2021-02-10T01:00:00" Pago="5000" Porcentaje="150.00"/>
+		</HENDFs>
+		<HRNDFs>
+			<HRNDF Cantidad="4.00" HoraFin="2021-02-10T02:00:00" HoraInicio="2021-02-10T01:00:00" Pago="5000" Porcentaje="110.00"/>
+		</HRNDFs>
+</Devengados>
+<Deducciones>
+<Salud Deduccion="151848.00" Porcentaje="4"/>
+<FondoPension Deduccion="151848.00" Porcentaje="4"/>
+<FondoSP Deduccion="37962.00" DeduccionSub="15000.00" Porcentaje="1" PorcentajeSub=".00"/>
+<PagosTerceros>
+<PagoTercero>5441.00</PagoTercero>
+</PagosTerceros>
+<Cooperativa>844315.00</Cooperativa>
+<EmbargoFiscal>0.00</EmbargoFiscal>
+<PlanComplementarios>45556.00</PlanComplementarios>
+<Deuda>271136.00</Deuda>
+</Deducciones>
+<DevengadosTotal>3969733.00</DevengadosTotal>
+<DeduccionesTotal>1744257.00</DeduccionesTotal>
+<ComprobanteTotal>2225476.00</ComprobanteTotal>
+</NominaIndividual>

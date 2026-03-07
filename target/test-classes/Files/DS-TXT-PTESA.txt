@@ -1,0 +1,23 @@
+{ControlDocumento}|1.0
+{FacturaElectronica}|10|SEDS984012106|2|2024-10-12|2025-09-31|05|COP|1
+{Resolucion}|18760000004|2024-01-01|2024-12-31|SEDS|984000000|985000000
+{{Notas}|1|Nota de documento soporte
+{OrdenCompra}||
+{ProveedorOF}||2||
+{ProveedorOF_DireccionFisica}|11001|Bogotá, D.C.|110211|Bogotá|11|CO|Colombia|es
+{ProveedorOF_DireccionFisica_Linea}|1|CARRERA 11 NO. 87-51 PISO 6
+{ProveedorOF_InfoFiscal}|ANA LUCILA MORENO GARCIA|24162136|5|31|R-99-PN|No responsable PN|01|IVA
+{ClienteADQ}|1||||||1
+{ClienteADQ_InfoFiscal}|PROFESIONALES EN TRANSACCIONES ELECTRONICAS SA|830096620|1|31|O-13;O-15;O-23|05|01|IVA
+{Pago}|1|47|2022-09-29|
+{TotalImpuesto}|1|0.00|01|IVA|
+{TotalImpuesto_SubTotalTributoTarifa}|1|1|181000.00|0.00||||0.00
+{ValoresTotalesFactura}|181000.00|181000.00|181000.00||||181000.00
+{LineaDetalle}|1|1|TE|181000.00
+{LineaDetalle_TextoLibre}|1|1| REEMBOLSO GASTO REGISTRO PODER ALABA CLEMENCIA GARCIA ANTE LA CAMARA DE COMERCIO ORDEN 1001025765
+{LineaDetalle_PeriodoFacturacion}|1|2024-10-31|2|Acumulado semanal 
+{LineaDetalle_Impuesto}|1|1|0.00|01|IVA|
+{LineaDetalle_Impuesto_SubTotalTributoTarifa}|1|1|181000.00|0.00||||0
+{LineaDetalle_Item}|1|REEMBOLSO GASTO REGISTRO PODER ALABA CLEMENCIA GARCIA ANTE LA CAMARA DE COMERCIO|||||||||||
+{LineaDetalle_Item_CodigoEstandar}|1|1|999|Estándar de adopción del contribuyente
+{LineaDetalle_Precio}|1|181000.00|1|TE

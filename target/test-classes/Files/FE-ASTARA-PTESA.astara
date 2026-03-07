@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ns1:ca4xml xmlns:ns1="http://acepta.com/soap/ca4xml">
+	<ns1:datos>
+		<ns1:Invoice>
+			<ns1:IssueDate>2024-10-12</ns1:IssueDate>
+			<ns1:IssueTime>12:28:21-05:00</ns1:IssueTime>
+			<ns1:InvoiceTypeCode>01</ns1:InvoiceTypeCode>
+			<ns1:CustomizationID>10</ns1:CustomizationID>
+			<ns1:ID>SETT1210245</ns1:ID>
+			<ns1:DocumentCurrencyCode>COP</ns1:DocumentCurrencyCode>
+			<ns1:AccountDocument>
+				<ns1:ID>4800086776</ns1:ID>
+			</ns1:AccountDocument>
+			<ns1:AccountingSupplierParty>
+				<ns1:AdditionalAccountID>1</ns1:AdditionalAccountID>
+				<ns1:Party>
+					<ns1:IndustryClasificationCode>4511</ns1:IndustryClasificationCode>
+					<ns1:ID>900620724</ns1:ID>
+					<ns1:schemeID>9</ns1:schemeID>
+					<ns1:PartyName>
+						<ns1:Name>Astara Colombia SAS</ns1:Name>
+					</ns1:PartyName>
+					<ns1:PhysicalLocation>
+						<ns1:Address>
+							<ns1:ID>11001</ns1:ID>
+							<ns1:CityName>BOGOTÁ D.C.</ns1:CityName>
+							<ns1:PostalZone>111011</ns1:PostalZone>
+							
+							<ns1:CountrySubentity>Bogotá</ns1:CountrySubentity>
+							<ns1:CountrySubentityCode>11</ns1:CountrySubentityCode>
+							<ns1:AddressLine>
+								<ns1:Line>Av. Carrera 45 # 108-27 Torre 2. Of 805, Edificio paralelo</ns1:Line>
+							</ns1:AddressLine>
+							<ns1:Country>
+								<ns1:IdentificationCode>CO</ns1:IdentificationCode>
+								<ns1:Name>Colombia</ns1:Name>
+							</ns1:Country>
+						</ns1:Address>
+					</ns1:PhysicalLocation>
+					<ns1:PBX>57 1 5190055</ns1:PBX>
+					<ns1:PartyTaxScheme>
+						<ns1:RegistrationName>Astara Colombia SAS</ns1:RegistrationName>
+						<ns1:TaxLevelCode>R-99-PN</ns1:TaxLevelCode>
+						<ns1:TaxScheme>
+							<ns1:ID>01</ns1:ID>
+							<ns1:Name>IVA</ns1:Name>
+						</ns1:TaxScheme>
+						<ns1:CorporateRegistrationScheme>1838176</ns1:CorporateRegistrationScheme>
+					</ns1:PartyTaxScheme>
+					<ns1:SellerContact>
+						<ns1:Name>Pruebas Astara</ns1:Name>
+					</ns1:SellerContact>
+				</ns1:Party>
+			</ns1:AccountingSupplierParty>
+			<ns1:AccountingCustomerParty>
+				<ns1:AdditionalAccountID>2</ns1:AdditionalAccountID>
+				<ns1:Party>
+					<ns1:PartyIdentification>13</ns1:PartyIdentification>
+					<ns1:ID>1014306300</ns1:ID>
+					<ns1:schemeID>1</ns1:schemeID>
+					<ns1:PartyName>
+						<ns1:Name>Adquiriente de pruebas automatizadas</ns1:Name>
+					</ns1:PartyName>
+					<ns1:PhysicalLocation>
+						<ns1:Address>
+							<ns1:ID>05001</ns1:ID>
+							<ns1:CityName>MEDELLÍN</ns1:CityName>
+							<ns1:CountrySubentityCode>05</ns1:CountrySubentityCode>
+							<ns1:AddressLine>
+								<ns1:Line>CR 52 11 20 AV GUAYABAL</ns1:Line>
+							</ns1:AddressLine>
+							<ns1:Country>
+								<ns1:IdentificationCode>CO</ns1:IdentificationCode>
+								<ns1:Name>Colombia</ns1:Name>
+							</ns1:Country>
+						</ns1:Address>
+					</ns1:PhysicalLocation>
+					<ns1:PartyTaxScheme>
+						<ns1:RegistrationName>Adquiriente de pruebas automatizadas</ns1:RegistrationName>
+						<ns1:TaxLevelCode>R-99-PN</ns1:TaxLevelCode>
+						<ns1:TaxScheme>
+							<ns1:ID>01</ns1:ID>
+							<ns1:Name>IVA</ns1:Name>
+						</ns1:TaxScheme>
+						<ns1:CorporateRegistrationScheme>21-315197-12</ns1:CorporateRegistrationScheme>
+						<ns1:RegistrationAddress>
+							<ns1:ID>05001</ns1:ID>
+							<ns1:CityName>MEDELLÍN</ns1:CityName>
+							<ns1:CountrySubentityCode>05</ns1:CountrySubentityCode>
+							<ns1:AddressLine>
+								<ns1:Line>CR 52 11 20 AV GUAYABAL   MEDELLÍN ANTIOQUIA Colombia</ns1:Line>
+							</ns1:AddressLine>
+							<ns1:Country>
+								<ns1:IdentificationCode>CO</ns1:IdentificationCode>
+								<ns1:Name>Colombia</ns1:Name>
+							</ns1:Country>
+						</ns1:RegistrationAddress>
+					</ns1:PartyTaxScheme>
+					<ns1:Person/>
+					<ns1:Contact>
+						<ns1:Telephone>4445410  3510414</ns1:Telephone>
+						<ns1:ElectronicMail>diana.nino@ptesa.com</ns1:ElectronicMail>
+					</ns1:Contact>
+					<ns1:ClientCode>
+						<ns1:ID>0000294539</ns1:ID>
+					</ns1:ClientCode>
+				</ns1:Party>
+			</ns1:AccountingCustomerParty>
+			<ns1:Delivery>
+				<ns1:Party>
+					<ns1:PartyName/>
+					<ns1:PhysicalLocation>
+						<ns1:Address>
+							<ns1:ID>05001</ns1:ID>
+							<ns1:CityName>MEDELLÍN</ns1:CityName>
+							<ns1:CountrySubentityCode>05</ns1:CountrySubentityCode>
+							<ns1:AddressLine>
+								<ns1:Line>CR 52 11 20 AV GUAYABAL   MEDELLÍN ANTIOQUIA Colombia</ns1:Line>
+							</ns1:AddressLine>
+							<ns1:Country>
+								<ns1:IdentificationCode>CO</ns1:IdentificationCode>
+								<ns1:Name>Colombia</ns1:Name>
+							</ns1:Country>
+						</ns1:Address>
+					</ns1:PhysicalLocation>
+				</ns1:Party>
+			</ns1:Delivery>
+			<ns1:PaymentMeans>
+				<ns1:ID>2</ns1:ID>
+				<ns1:PaymentMeansCode>31</ns1:PaymentMeansCode>
+				<ns1:PaymentDueDate>2021-08-11</ns1:PaymentDueDate>
+				<ns1:PaymentID>D030</ns1:PaymentID>
+				<ns1:Note>Pagadero a 30 días</ns1:Note>
+			</ns1:PaymentMeans>
+			<ns1:TaxTotal>
+				<ns1:TaxAmount>3800.00 </ns1:TaxAmount>
+				<ns1:TaxSubtotal>
+					<ns1:TaxableAmount>20000.00 </ns1:TaxableAmount>
+					<ns1:TaxAmount>3800.00 </ns1:TaxAmount>
+					<ns1:TaxCategory>
+						<ns1:Percent>19.00</ns1:Percent>
+						<ns1:TaxScheme>
+							<ns1:ID>01</ns1:ID>
+							<ns1:Name>IVA</ns1:Name>
+						</ns1:TaxScheme>
+					</ns1:TaxCategory>
+				</ns1:TaxSubtotal>
+			</ns1:TaxTotal>
+			<ns1:LegalMonetaryTotal>
+				<ns1:LineExtensionAmount>20000.00 </ns1:LineExtensionAmount>
+				<ns1:TaxExclusiveAmount>20000.00 </ns1:TaxExclusiveAmount>
+				<ns1:TaxExclusiveBaseAmount>20000.00 </ns1:TaxExclusiveBaseAmount>
+				<ns1:TaxInclusiveAmount>23800.00 </ns1:TaxInclusiveAmount>
+				<ns1:PayableAmount>23800.00 </ns1:PayableAmount>
+				<ns1:PayableExpectedAmount>23800.00 </ns1:PayableExpectedAmount>
+				<ns1:TextAmount>Diez millones setecientos treinta y ocho mil ochenta y cuatro      pesos moneda corriente.</ns1:TextAmount>
+			</ns1:LegalMonetaryTotal>
+			<ns1:InvoiceLine>
+				<ns1:ID>1 </ns1:ID>
+				<ns1:StandardItemIdentification>
+					<ns1:ID>CHR04627533AC</ns1:ID>
+					<ns1:schemeID>999</ns1:schemeID>
+				</ns1:StandardItemIdentification>
+				<ns1:InvoicedQuantity>1.000 </ns1:InvoicedQuantity>
+				<ns1:UnitCode>ST</ns1:UnitCode>
+				<ns1:LineExtensionAmount>20000.00 </ns1:LineExtensionAmount>
+				<ns1:Item>
+					<ns1:Description>Astara descripcion para pruebas automatizadas</ns1:Description>
+				</ns1:Item>
+				<ns1:Price>
+					<ns1:PriceAmount>20000.00 </ns1:PriceAmount>
+					<ns1:BaseQuantity>1.000 </ns1:BaseQuantity>
+				</ns1:Price>
+				<ns1:TaxTotal>
+					<ns1:TaxAmount>3800.00 </ns1:TaxAmount>
+					<ns1:TaxSubtotal>
+						<ns1:TaxableAmount>20000.00 </ns1:TaxableAmount>
+						<ns1:TaxAmount>3800.00 </ns1:TaxAmount>
+						<ns1:TaxCategory>
+							<ns1:Percent> 19.00</ns1:Percent>
+							<ns1:TaxScheme>
+								<ns1:ID>01</ns1:ID>
+								<ns1:Name>IVA</ns1:Name>
+							</ns1:TaxScheme>
+						</ns1:TaxCategory>
+					</ns1:TaxSubtotal>
+				</ns1:TaxTotal>
+			</ns1:InvoiceLine>
+			<ns1:Notes1/>
+			<ns1:Adjuntos>
+				<ns1:MailReceptor>diana.nino@ptesa.com.co</ns1:MailReceptor>
+			</ns1:Adjuntos>
+		</ns1:Invoice>
+	</ns1:datos>
+</ns1:ca4xml>

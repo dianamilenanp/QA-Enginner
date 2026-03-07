@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><XMLPtesa>
+	<ControlDocumento>
+		<Version>1.0</Version>
+	</ControlDocumento>
+	<Documentos>
+		<Documento>
+			<FacturaElectronica>
+				<Resolucion>
+					<NumeroAutorizacion>18760000001</NumeroAutorizacion>
+					<FechaInicio>2019-01-19</FechaInicio>
+					<FechaFin>2030-01-19</FechaFin>
+					<Prefijo>SETP</Prefijo>
+					<Desde>990000000</Desde>
+					<Hasta>995000000</Hasta>
+				</Resolucion>
+				<TipoOperacion>10</TipoOperacion>
+				<NumeroDocumento>SETP992210244</NumeroDocumento>
+				<AmbienteDestino>2</AmbienteDestino>
+				<FechaEmision>2024-10-22T00:00:00-05:00</FechaEmision>
+				<FechaVencimientoFactura>2023-11-26</FechaVencimientoFactura>
+				<TipoFactura>1</TipoFactura>
+				<DivisaFactura>COP</DivisaFactura>
+				<CantidadLineasFactura>2</CantidadLineasFactura>
+				<OrdenCompra>
+					<NumeroFactura>R150421</NumeroFactura>
+					<FechaEmision>2021-04-15</FechaEmision>
+				</OrdenCompra>
+				<ProveedorOF>
+					<Identificador>1</Identificador>
+					<TipoOrganizacion>1</TipoOrganizacion>
+					<NombreComercialEmisor>PROFESIONALES EN TRANSACCIONES ELECTRONICAS SA</NombreComercialEmisor>
+					<DireccionFisica>
+						<CodigoMunicipio>11001</CodigoMunicipio>
+						<NombreCiudad>BOGOTÁ, D.C.</NombreCiudad>
+						<CodigoPostal>11001</CodigoPostal>
+						<NombreDepartamento>Bogotá</NombreDepartamento>
+						<CodigoDepartamento>11</CodigoDepartamento>
+						<Lineas>
+							<Linea>Cra 12 # 89-28</Linea>
+						</Lineas>
+						<CodigoPais>CO</CodigoPais>
+						<NombrePais>Colombia</NombrePais>
+						<IDLenguajePais>es</IDLenguajePais>
+					</DireccionFisica>
+					<InfoFiscal>
+						<NombreRazonSocialFiscal>PROFESIONALES EN TRANSACCIONES ELECTRONICAS SA</NombreRazonSocialFiscal>
+						<NitEmisorFiscal>830096620</NitEmisorFiscal>
+						<DVEmisorFiscal>1</DVEmisorFiscal>
+						<TipoIDEmisorFiscal>31</TipoIDEmisorFiscal>
+						<RegimenEmisor>O-99</RegimenEmisor>
+						<ListaRegimenEmisor>No aplica</ListaRegimenEmisor>
+						<DireccionFisica>
+							<CodigoMunicipio>11001</CodigoMunicipio>
+							<NombreCiudad>BOGOTÁ, D.C.</NombreCiudad>
+							<CodigoPostal>11001</CodigoPostal>
+							<NombreDepartamento>Bogotá</NombreDepartamento>
+							<CodigoDepartamento>11</CodigoDepartamento>
+							<Lineas>
+								<Linea>Cra 12 # 89-28</Linea>
+							</Lineas>
+							<CodigoPais>CO</CodigoPais>
+							<NombrePais>Colombia</NombrePais>
+							<IDLenguajePais>es</IDLenguajePais>
+						</DireccionFisica>
+						<IdentificadorTributo>01</IdentificadorTributo>
+						<NombreTributo>IVA</NombreTributo>
+					</InfoFiscal>
+					<InfoLegal>
+						<NombreRazonSocialLegal>PROFESIONALES EN TRANSACCIONES ELECTRONICAS SA</NombreRazonSocialLegal>
+						<NitEmisorLegal>830096620</NitEmisorLegal>
+						<DVNitEmisorLegal>1</DVNitEmisorLegal>
+						<TipoIDEmisorLegal>31</TipoIDEmisorLegal>
+						<PrefijoFacturacion>SETP</PrefijoFacturacion>
+					</InfoLegal>
+					<Contacto>
+						<NombreContacto>DIANA</NombreContacto>
+						<TelefonoContacto>12345</TelefonoContacto>
+						<FaxContacto>98765</FaxContacto>
+						<EmailContacto>diana.nino@ptesa.com</EmailContacto>
+						<NotaContacto>nota</NotaContacto>
+					</Contacto>
+				</ProveedorOF>
+				<ClienteADQ>
+					<TipoPersona>2</TipoPersona>
+					<TipoIDADQ>13</TipoIDADQ>
+					<IdentificacionADQ>1014306300</IdentificacionADQ>
+					<DVADQ>1</DVADQ>
+					<NombreComercial>Adquiriente de pruebas automatizadas</NombreComercial>
+					<DireccionFisica>
+						<CodigoMunicipio>11001</CodigoMunicipio>
+						<NombreCiudad>BOGOTÁ, D.C.</NombreCiudad>
+						<CodigoPostal>11001</CodigoPostal>
+						<NombreDepartamento>Bogotá, D.C.</NombreDepartamento>
+						<CodigoDepartamento>11</CodigoDepartamento>
+						<Lineas>
+							<Linea>CALLE 50 # 15 43</Linea>
+						</Lineas>
+						<CodigoPais>CO</CodigoPais>
+						<NombrePais>Colombia</NombrePais>
+						<IDLenguajePais>es</IDLenguajePais>
+					</DireccionFisica>
+					<InfoFiscalClienteADQ>
+						<NombreRazonSocialFiscalADQ>Adquiriente de pruebas automatizadas</NombreRazonSocialFiscalADQ>
+						<NitFiscalADQ>1014306300</NitFiscalADQ>
+						<DVADQ>1</DVADQ>
+						<TipoIDADQ>13</TipoIDADQ>
+						<CodigoImpuesto>R-99-PN</CodigoImpuesto>
+						<DireccionFisica>
+							<CodigoMunicipio>11001</CodigoMunicipio>
+							<NombreCiudad>BOGOTÁ, D.C.</NombreCiudad>
+							<NombreDepartamento>Bogotá</NombreDepartamento>
+							<CodigoDepartamento>11</CodigoDepartamento>
+							<Lineas>
+								<Linea>AV CL 26  92 32 MD G1</Linea>
+							</Lineas>
+							<CodigoPais>CO</CodigoPais>
+							<NombrePais>Colombia</NombrePais>
+							<IDLenguajePais>es</IDLenguajePais>
+						</DireccionFisica>
+						<IdentificadorTributo>01</IdentificadorTributo>
+						<NombreTributo>IVA</NombreTributo>
+					</InfoFiscalClienteADQ>
+					<InfoLegalClienteADQ>
+						<NombreRazonSocialLegalADQ>Adquiriente de pruebas automatizadas</NombreRazonSocialLegalADQ>
+						<NitLegalADQ>1014306300</NitLegalADQ>
+						<DVADQ>1</DVADQ>
+						<TipoIDADQ>13</TipoIDADQ>
+					</InfoLegalClienteADQ>
+					<Contacto>
+						<NombreContacto>Adquiriente de pruebas automatizadas</NombreContacto>
+						<TelefonoContacto>3404233</TelefonoContacto>
+						<EmailContacto>diana.nino@ptesa.com</EmailContacto>
+					</Contacto>
+					<PersonaNatural>
+						<NombresADQ>Adquiriente de pruebas de humo</NombresADQ>
+					</PersonaNatural>
+				</ClienteADQ>
+				<Pago>
+					<IDMetodoPago>2</IDMetodoPago>
+					<CodigoMedioPago>ZZZ</CodigoMedioPago>
+					<FechaVencimiento>2020-01-26</FechaVencimiento>
+				</Pago>
+				<TotalImpuestos>
+					<TotalImpuesto>
+						<ValorTributos>182305.00</ValorTributos>
+						<MontoRedondeo>0.00</MontoRedondeo>
+						<SubTotalTributoTarifa>
+							<BaseImponible>959500.00</BaseImponible>
+							<ValorTributo>182305.00</ValorTributo>
+							<IdentificacionUnidadMedida>ZZ</IdentificacionUnidadMedida>
+							<Porcentaje>19.00</Porcentaje>
+						</SubTotalTributoTarifa>
+						<IdentificadorTributo>01</IdentificadorTributo>
+						<NombreTributo>IVA</NombreTributo>
+					</TotalImpuesto>
+				</TotalImpuestos>
+				<ValoresTotalesFactura>
+					<TotalValorBruto>959500.00</TotalValorBruto>
+					<TotalBaseImponible>959500.00</TotalBaseImponible>
+					<TotalValorBrutoMasTributos>1141805.00</TotalValorBrutoMasTributos>
+					<ValorAPagarFactura>1141805.00</ValorAPagarFactura>
+				</ValoresTotalesFactura>
+				<LineasDetalle>
+					<LineaDetalle>
+						<IDLinea>1</IDLinea>
+						<CantidadProductoServicio>30</CantidadProductoServicio>
+						<IDUnidadMedida>ZZ</IDUnidadMedida>
+						<ValorTotalLinea>789000.00</ValorTotalLinea>
+						<Impuestos>
+							<Impuesto>
+								<ValorTributoLinea>149910.00</ValorTributoLinea>
+								<MontoRedondeo>0.00</MontoRedondeo>
+								<SubTotalTributoTarifa>
+									<BaseImponibleLinea>789000.00</BaseImponibleLinea>
+									<ValorTributoLineaBase>149910.00</ValorTributoLineaBase>
+									<Porcentaje>19.00</Porcentaje>
+								</SubTotalTributoTarifa>
+								<IdentificadorTributo>01</IdentificadorTributo>
+								<NombreTributo>IVA</NombreTributo>
+							</Impuesto>
+						</Impuestos>
+						<Item>
+							<DescripcionItem>
+								<Texto>Descripcion para pruebas automatizadas</Texto>
+							</DescripcionItem>
+							<CantidadDeUnidad>30</CantidadDeUnidad>
+						</Item>
+						<Precio>
+							<PrecioArticulo>26300.00</PrecioArticulo>
+							<CantidadBase>30</CantidadBase>
+							<UnidadDeCantidad>ZZ</UnidadDeCantidad>
+						</Precio>
+					</LineaDetalle>
+					<LineaDetalle>
+						<IDLinea>2</IDLinea>
+						<CantidadProductoServicio>5</CantidadProductoServicio>
+						<IDUnidadMedida>ZZ</IDUnidadMedida>
+						<ValorTotalLinea>170500.00</ValorTotalLinea>
+						<Impuestos>
+							<Impuesto>
+								<ValorTributoLinea>32395.00</ValorTributoLinea>
+								<MontoRedondeo>0.00</MontoRedondeo>
+								<SubTotalTributoTarifa>
+									<BaseImponibleLinea>170500.00</BaseImponibleLinea>
+									<ValorTributoLineaBase>32395.00</ValorTributoLineaBase>
+									<Porcentaje>19.00</Porcentaje>
+								</SubTotalTributoTarifa>
+								<IdentificadorTributo>01</IdentificadorTributo>
+								<NombreTributo>IVA</NombreTributo>
+							</Impuesto>
+						</Impuestos>
+						<Item>
+							<DescripcionItem>
+								<Texto>Descripcion de pruebas automatizadas 2</Texto>
+							</DescripcionItem>
+							<CantidadDeUnidad>5</CantidadDeUnidad>
+						</Item>
+						<Precio>
+							<PrecioArticulo>34100.00</PrecioArticulo>
+							<CantidadBase>5</CantidadBase>
+							<UnidadDeCantidad>ZZ</UnidadDeCantidad>
+						</Precio>
+					</LineaDetalle>
+				</LineasDetalle>
+				<Extensiones>
+					<Extension>
+						<Tipo>DOC</Tipo>
+						<Clave>VlrEnLetras</Clave>
+						<Valor>UN MILLON CIENTO CUARENTA Y UN MIL OCHOCIENTOS CINCO PESOS  CON 00/100 M.L. ***********************</Valor>
+					</Extension>
+					<Extension>
+						<Tipo>DOC</Tipo>
+						<Clave>Incoterms:</Clave>
+						<Valor>EXWORKS</Valor>
+					</Extension>
+					<Extension>
+						<Tipo>DOC</Tipo>
+						<Clave>MENSAJE1</Clave>
+						<Valor>Notas: 1.La presente factura se asimila en todos sus efectos legales a la letra de cambio.  2. En caso de mora causará el interes autorizados por ley. 3.Se hace constar que la aceptación electrónica de una persona distinta del adquieriente implica que esta autorizada el documento por el adquiriente del servicio o producto para firmar, confesar la deuda y obligar al adquiriente. 4.Favor realizar transferencia bancara Banco de Bogotá Cuenta de Ahorros N.049160161 a nombre de OASIS FLORALIFE COLOMBIA S.A.S,NIT:900.166.230-5.</Valor>
+					</Extension>
+					<Extension>
+						<Tipo>DOC</Tipo>
+						<Clave>MENSAJE3</Clave>
+						<Valor>Linea Gratis 018000 515652 Retenedores de IVA - C+odigo Actividad CIIU 3290 Tarifa 5.8 x 1000 - BOGOTÁ, D.C.</Valor>
+					</Extension>
+					<Extension>
+						<Tipo>DOC</Tipo>
+						<Clave>Ref. Cliente:</Clave>
+						<Valor>REMISION 4848</Valor>
+					</Extension>
+				</Extensiones>
+			</FacturaElectronica>
+		</Documento>
+	</Documentos>
+</XMLPtesa>
